@@ -1,5 +1,5 @@
 PRIVACY POLICY
-Effective date: 2022-03-06
+Effective date: 2022-06-22
 
 1. Introduction
 
@@ -280,4 +280,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us by email: isiakasaidi02@gmail.com.
 
-This Privacy Policy was created for springtech.co.tz by PolicyMaker.io on 2022-03-06.
+This Privacy Policy was created for bizytech.com by said isiaka said on 2022-06-22.
