@@ -3,11 +3,11 @@ Effective date: 2022-06-22
 
 1. Introduction
 
-Welcome to springtech.
+Welcome to datatool.
 
-springtech (“us”, “we”, or “our”) operates springtech.co.tz (hereinafter referred to as “Service”).
+datatool (“us”, “we”, or “our”) operates bizytech.com (hereinafter referred to as “Service”).
 
-Our Privacy Policy governs your visit to springtech.co.tz, and explains how we collect, safeguard and disclose information that results from your use of our Service.
+Our Privacy Policy governs your visit to bizytech.com, and explains how we collect, safeguard and disclose information that results from your use of our Service.
 
 We use your data to provide and improve Service. By using Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
@@ -15,7 +15,7 @@ Our Terms and Conditions (“Terms”) govern all use of our Service and togethe
 
 2. Definitions
 
-SERVICE means the springtech.co.tz website operated by springtech.
+SERVICE means the bizytech.com website operated by datatool.
 
 PERSONAL DATA means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
 
@@ -85,7 +85,7 @@ While using our Service, we may also collect the following information: sex, age
 
 5. Use of Data
 
-springtech uses the collected data for various purposes:
+datatool uses the collected data for various purposes:
 
 0.1. to provide and maintain our Service;
 
@@ -127,7 +127,7 @@ If you are located outside Tanzania and choose to provide information to us, ple
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-springtech will take all the steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organisation or a country unless there are adequate controls in place including the security of your data and other personal information.
+datatool will take all the steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organisation or a country unless there are adequate controls in place including the security of your data and other personal information.
 
 8. Disclosure of Data
 
